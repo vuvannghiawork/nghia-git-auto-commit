@@ -5,7 +5,7 @@ from datetime import datetime
 
 paths = [
     r"C:\Users\Admin\Desktop\NghiaGithub\nghia-git-auto-commit",
-r"C:\Users\Admin\Desktop\NghiaGithub\windows\README.md",
+    r"C:\Users\Admin\Desktop\NghiaGithub\windows\README.md",
 
 
 
