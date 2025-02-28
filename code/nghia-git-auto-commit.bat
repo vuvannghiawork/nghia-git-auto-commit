@@ -6,7 +6,7 @@ setlocal
 
 
 
-python  C:\Users\Admin\Desktop\NghiaGithub\nghia-git-auto-commit\code\nghia-git-auto-commit.py
+pythonw  C:\Users\Admin\Desktop\NghiaGithub\nghia-git-auto-commit\code\nghia-git-auto-commit.py
 
 
 
