@@ -4,24 +4,8 @@ from datetime import datetime
 
 
 paths = [
-    r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGitlab\whynotnghiavu-private\nha-tro",
-    
-    r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGitlab\whynotnghiavu\version-control-systems\nghia-git-auto-commit",
-    r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGitlab\whynotnghiavu\version-control-systems\nghia-gitconfig",
-    r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGitlab\whynotnghiavu\version-control-systems\nghia-template",
-    
-    r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGitlab\whynotnghiavu\os\windows\nghia-windows-autohotkey",
-    r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGitlab\whynotnghiavu\os\windows\nghia-windows-unikey",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-git-auto-commit",
 
-
-    # r"Đường dẫn bị sai",
-    # r"C:\Users\Admin\Downloads\NghiaDownloads\NghiaGit\NghiaGithub\whynotnghiavu\nghia-git-auto-commit-test\c.py",
-    # r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGitlab\whynotnghiavu\version-control-systems\nghia-git-auto-commit-test\c.py",
-    # r"C:\Users\Admin\Downloads\NghiaDownloads\NghiaGit\NghiaGithub\whynotnghiavu\nghia-git-auto-commit-test\test",
-    # r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGitlab\whynotnghiavu\version-control-systems\nghia-git-auto-commit-test\test",
-
-    # r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGithub\whynotnghiavu\order-ease\order-ease.code-workspace",
-    # r"C:\Users\Admin\Desktop\link\NghiaDownloads\NghiaGit\NghiaGithub\whynotnghiavu\clean-architecture\tasks\note.md",
 
 
 
