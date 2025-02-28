@@ -4,11 +4,15 @@ from datetime import datetime
 
 
 paths = [
+    r"C:\Users\Admin\Desktop\NghiaGithub\api",
     r"C:\Users\Admin\Desktop\NghiaGithub\nghia-git-auto-commit",
-    r"C:\Users\Admin\Desktop\NghiaGithub\windows\README.md",
-
-
-
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-template",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-vscode",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-autohotkey",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-manager-screenshots",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-unikey",
+    r"C:\Users\Admin\Desktop\NghiaGithub\Notes",
+    r"C:\Users\Admin\Desktop\NghiaGithub\windows",
 ]
 
 
