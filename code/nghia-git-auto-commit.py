@@ -4,15 +4,34 @@ from datetime import datetime
 
 
 paths = [
+    # r"C:\Users\Admin\Desktop\NghiaGithub\api",
+    # r"C:\Users\Admin\Desktop\NghiaGithub\nghia-git-auto-commit",
+    # r"C:\Users\Admin\Desktop\NghiaGithub\nghia-template",
+    # r"C:\Users\Admin\Desktop\NghiaGithub\nghia-vscode",
+    # r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-autohotkey",
+    # r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-manager-screenshots",
+    # r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-unikey",
+    # r"C:\Users\Admin\Desktop\NghiaGithub\Notes",
+    # r"C:\Users\Admin\Desktop\NghiaGithub\windows",
+
+
+
+
+
     r"C:\Users\Admin\Desktop\NghiaGithub\api",
-    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-git-auto-commit",
+    r"C:\Users\Admin\Desktop\NghiaGithub\DemoWebFlux",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-notes",
     r"C:\Users\Admin\Desktop\NghiaGithub\nghia-template",
+    r"C:\Users\Admin\Desktop\NghiaGithub\SMR-BE",
     r"C:\Users\Admin\Desktop\NghiaGithub\nghia-vscode",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows",
+    r"C:\Users\Admin\Desktop\NghiaGithub\fastapi-template-project",
     r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-autohotkey",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-clone-github",
     r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-manager-screenshots",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-docker-compose",
     r"C:\Users\Admin\Desktop\NghiaGithub\nghia-windows-unikey",
-    r"C:\Users\Admin\Desktop\NghiaGithub\Notes",
-    r"C:\Users\Admin\Desktop\NghiaGithub\windows",
+    r"C:\Users\Admin\Desktop\NghiaGithub\nghia-git-auto-commit",
 ]
 
 
